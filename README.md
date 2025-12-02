@@ -170,6 +170,12 @@ The in-app sheet tab dropdown doesn't currently switch between tabs properly.
 
 **Workaround:** Navigate to the desired tab/section in Google Sheets (e.g., "Unreleased", "Albums", etc.) and copy the URL directly from your browser while on that tab. The URL will contain the correct GID parameter for that specific tab.
 
+### Double Clicking Icon Doesnt Open/Close Program
+
+**Workaround:** just click on the icon to open and the minimize button to minimize it instead
+
+### Enlarge Window Button Does Not Work
+
 ---
 
 ## 📋 Requirements File
@@ -216,5 +222,6 @@ SheetDL is a tool for downloading content you have legitimate access to. Users a
 
 
 ### Made with ❤️ for music collectors
+
 
 
