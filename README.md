@@ -21,8 +21,30 @@
 - **Multi-Tab Support** - Select and download from different sheet tabs
 - **Smart Organization** - Organize downloads by Artist, Album, or keep flat
 - **Album Art Download** - Automatically downloads cover art when available
-- **Metadata Files** - Optionally save track metadata as text files
+- **Detailed Metadata Export** - Save comprehensive track info to text files (see below)
 - **Rip Format Selection** - When ripping choose between audio formats (M4A, MP3) or video (MP4) 
+
+### 📄 Metadata Export
+
+SheetDL can generate a detailed `.txt` file for each track containing all available information from your sheet. This feature is **enabled by default** but can be toggled on/off in the settings.
+
+Example output:
+```
+Title: Song Name
+Artist: Artist Name
+Album/Project: Album Name
+Genre/Category: Genre
+Notes: Any notes from the sheet
+File Date: Date information
+Leak/Release Date: Dates for those
+Type: Track type
+Format: Audio quality
+Cover Source: Cover art URL
+Cover Saved: Yes/No
+Download Links:
+  - https://example.com/download-link
+Generated: Date & Time
+```
 
 ### 📥 Supported Download Sources
 
@@ -170,12 +192,6 @@ The in-app sheet tab dropdown doesn't currently switch between tabs properly.
 
 **Workaround:** Navigate to the desired tab/section in Google Sheets (e.g., "Unreleased", "Albums", etc.) and copy the URL directly from your browser while on that tab. The URL will contain the correct GID parameter for that specific tab.
 
-### Double Clicking Icon Doesnt Open/Close Program
-
-**Workaround:** just click on the icon to open and the minimize button to minimize it instead
-
-### Enlarge Window Button Does Not Work
-
 ---
 
 ## 📋 Requirements File
@@ -222,6 +238,5 @@ SheetDL is a tool for downloading content you have legitimate access to. Users a
 
 
 ### Made with ❤️ for music collectors
-
 
 
