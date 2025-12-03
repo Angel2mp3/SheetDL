@@ -9,12 +9,6 @@
   tracked inside a Google Sheet. Supports multiple download sources and protocols.
 </p>
 
-<p align="center">
-  Made by <a href="https://github.com/Angel2mp3">Angel2mp3</a>
-</p>
-
----
-
 ## ✨ Features
 
 - **Google Sheets Integration** - Connect to any public Google Sheet tracker containing the music files you want to download
@@ -238,5 +232,6 @@ SheetDL is a tool for downloading content you have legitimate access to. Users a
 
 
 ### Made with ❤️ for music collectors
+
 
 
