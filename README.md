@@ -14,6 +14,15 @@
 </p>
 
 ---
+<p align="center">
+  <img src="screenshot-1.png" width="700">
+</p>
+
+<p align="center">
+  <img src="screenshot-2.png" width="700">
+</p>
+
+---
 
 ## ✨ Features
 
@@ -284,3 +293,4 @@ SheetDL is an open‑source utility for downloading publicly available content t
 ---
 
 ### Made with ❤️ for music collectors
+
